@@ -1,0 +1,20 @@
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.exe
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.pdb
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.xml
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\ResolveAssemblyReference.cache
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.Form1.resources
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.Resources.resources
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.vbproj.GenerateResource.Cache
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.exe
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.xml
+D:\artschwagerb\Documents\Visual Studio 2008\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.pdb
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.exe
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.xml
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.pdb
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.exe
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.pdb
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\bin\Release\AcceptableWallpaper.xml
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\ResolveAssemblyReference.cache
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.Form1.resources
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.Resources.resources
+X:\BrianShare\backup\102910\Projects\AcceptableWallpaper\obj\Release\AcceptableWallpaper.vbproj.GenerateResource.Cache

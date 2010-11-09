@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AcceptableWallpaper
+</name>
+</assembly>
+<members>
+<member name="M:AcceptableWallpaper.Scraper.GetAllImagesFromUrl(System.String)">
+	<summary>
+ Given a web page url, it will retrieve the Html from that page and parse the image tags in that page
+ </summary>
+	<param name="url">The Web page url in this format "http;//www.msn.com"</param>
+	<returns>Returns a list of image urls as strings based on the url of a Web page</returns>
+</member>
+</members>
+</doc>
