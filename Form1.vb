@@ -16,7 +16,6 @@ Public Class Form1
     End Sub
 
     Private Sub btnRandom_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnRandom.Click
-
         Dim a As New Thread(AddressOf SetWallbaseWallpaper)
         a.IsBackground = True
         a.Start()
@@ -35,7 +34,6 @@ Public Class Form1
         btnRandom.Text = "Downloading..."
         Try
             download(Scraper.ScrapeNewWallpaper())
-
             SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, "C:\wallpaper.jpg", SPIF_UPDATEINIFILE Or SPIF_SENDWININICHANGE)
 
         Catch Ex As Exception
